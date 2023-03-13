@@ -1,0 +1,4 @@
+- src: https://github.com/snehald12/repo1.git
+   scm: git
+   version: main   
+   name: repo1
