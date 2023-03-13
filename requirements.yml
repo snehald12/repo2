@@ -1,4 +1,4 @@
-- src: https://github.com/snehald12/repo1.git
+- src: https://github.com/snehald12/repo1/tree/main/check_role/
    scm: git
    version: main   
-   name: repo1
+   name: check_role
