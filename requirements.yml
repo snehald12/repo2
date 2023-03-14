@@ -1,4 +1,4 @@
-- src: https://github.com/snehald12/repo1/blob/3e1bcc9e73e5a4380cfb379f19bd200763ea9374/roles/tasks/ping.yml
+- src: https://github.com/snehald12/repo1/blob/3e1bcc9e73e5a4380cfb379f19bd200763ea9374/roles/
    scm: git
    version: main   
    name: roles
