@@ -1,6 +1,4 @@
-- name: Git checkout
-  ansible.builtin.git:
-   repo: https://github.com/snehald12/repo1.git
+- src: https://github.com/snehald12/repo1/blob/acc466c53304975ab02eaf106dd75ee3aa09bd43/roles/
    scm: git
-   version: release-0.22
+   version: main
    name: roles
