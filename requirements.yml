@@ -1,4 +1,4 @@
-- src: https://github.com/snehald12/repo1/blob/acc466c53304975ab02eaf106dd75ee3aa09bd43/roles/
+- src: git@github.com:snehald12/repo1.git
    scm: git
    version: main
    name: roles
